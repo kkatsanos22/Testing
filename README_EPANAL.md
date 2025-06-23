@@ -20,6 +20,7 @@ This repository contains the implementation and solution of exercises inspired b
 
 ```c
 [πλήρης κώδικας phonebook με dynamic array]
+
 ```
 ```c
 #include <stdio.h>
