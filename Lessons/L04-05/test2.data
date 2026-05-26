@@ -1,0 +1,26 @@
+a Spyros 11111
+p
+a Vana 22222
+p
+a Giorgos 33333
+p
+a Spyros 55555
+p
+f Vana
+f Spyros
+f Giorgos
+f Nikos
+r Spyros
+p
+f Spyros
+f Giorgos
+f Vana
+r Vana
+p
+f Vana
+f Giorgos
+r Giorgos
+p
+e
+
+

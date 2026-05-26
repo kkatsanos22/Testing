@@ -1,0 +1,55 @@
+p
+t
+a 20
+p
+t
+a 10
+p
+t
+a 30
+p
+t
+a 15
+p
+t
+a 25
+p
+t
+a 35
+p
+t
+a 5
+p
+t
+f 5
+f 35
+f 12
+f 1
+r 35
+p
+t
+r 5
+p
+t
+r 15
+p
+t
+r 25
+p
+t
+r 10
+c
+p
+t
+r 10
+p
+t
+a 10
+a 20
+a 30
+a 5
+a 7
+p
+t
+e
+
